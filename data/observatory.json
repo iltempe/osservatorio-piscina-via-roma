@@ -1,0 +1,1104 @@
+{
+ "lang": "it",
+ "project": {
+  "name": "Piscina Colzi-Martini di via Roma",
+  "short_name": "Piscina di via Roma",
+  "place": "Prato",
+  "description": "Riqualificazione della piscina comunale di via Roma 258 (vasca da 50 m, vasca bimbi, spogliatoi, copertura) dal progetto del 2018 a oggi. Ogni dato ha la sua fonte.",
+  "updated": "2026-11-23",
+  "site_url": "https://iltempe.github.io/osservatorio-piscina-via-roma/",
+  "repo_url": "https://github.com/iltempe/osservatorio-piscina-via-roma",
+  "share_text": "Osservatorio Piscina di via Roma (Prato): costi, cronoprogramma e atti ufficiali",
+  "social_subtitle": "Prato · costi, cronoprogramma e atti ufficiali",
+  "author": {
+   "name": "Matteo Tempestini",
+   "github": "iltempe",
+   "email": "mtempestini@gmail.com"
+  }
+ },
+ "status": [
+  {
+   "text": "Vasca bimbi e palazzina spogliatoi sono finite, entrambe con mesi di ritardo sul contratto.",
+   "sources": "F05,F10"
+  },
+  {
+   "text": "La vasca da 50 metri, primo intervento del progetto 2018, non ha ancora una gara: nel programma triennale è passata dal 2024 al 2025 e vale 2,8 milioni.",
+   "sources": "F14,F15"
+  },
+  {
+   "text": "Libera balneazione inagibile nell'estate 2026; dal 28 agosto 2026 la piscina è chiusa fino a nuova comunicazione.",
+   "sources": "F30"
+  }
+ ],
+ "schedule": [
+  {
+   "group": "Progetto complessivo",
+   "item": "Progetto definitivo (3 interventi, 1,85 mln)",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2018-10-30",
+   "note": "DGC 392/2018: vasca da 50 m, vasca bimbi, palazzina spogliatoi.",
+   "sources": "F02,F05"
+  },
+  {
+   "group": "Progetto complessivo",
+   "item": "Stralcio degli spogliatoi dal progetto",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2020-03-31",
+   "note": "DGC 96/2020: lo stralcio serve a coprire l'aumento di costo della vasca bimbi.",
+   "sources": "F02,F16"
+  },
+  {
+   "group": "Vasca bimbi (intervento 2)",
+   "item": "Progetto esecutivo vasca bimbi",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2020-07-17",
+   "note": "DD 1612/2020.",
+   "sources": "F02,F18"
+  },
+  {
+   "group": "Vasca bimbi (intervento 2)",
+   "item": "Aggiudicazione vasca bimbi",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2021-11-11",
+   "note": "DD 2958/2021: Gruppo Ciccotti srl, ribasso 23,19%.",
+   "sources": "F03"
+  },
+  {
+   "group": "Vasca bimbi (intervento 2)",
+   "item": "Lavori vasca bimbi",
+   "kind": "phase",
+   "status": "done",
+   "start": "2022-02-08",
+   "end": "2023-04-20",
+   "planned": "2022-06-25",
+   "planned_text": "137 giorni, fine il 25/06/2022 (capitolato)",
+   "official_date": "ultimazione constatata il 20/04/2023",
+   "delay": "+10 mesi",
+   "note": "5 ordini di servizio per ritardi, penali per 33.309,14 €, avvio del procedimento di risoluzione (27/01/2023).",
+   "sources": "F05"
+  },
+  {
+   "group": "Vasca bimbi (intervento 2)",
+   "item": "Certificato di regolare esecuzione",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2024-09-13",
+   "note": "DD 2288/2024. L'impresa firma con riserva.",
+   "sources": "F05"
+  },
+  {
+   "group": "Palazzina spogliatoi",
+   "item": "Progetto definitivo spogliatoi",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2020-11-10",
+   "note": "DGC 262/2020, poi sostituito dalla DGC 306 del 06/09/2022.",
+   "sources": "F19,F23"
+  },
+  {
+   "group": "Palazzina spogliatoi",
+   "item": "Aggiudicazione spogliatoi",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2023-03-15",
+   "note": "DD 594/2023: Donati e Damiani srl, ribasso 20,2%.",
+   "sources": "F09"
+  },
+  {
+   "group": "Palazzina spogliatoi",
+   "item": "Lavori spogliatoi",
+   "kind": "phase",
+   "status": "done",
+   "start": "2023-06",
+   "end": "2024-06-10",
+   "planned": "2023-11-16",
+   "planned_text": "150 giorni, fine il 16/11/2023 (capitolato)",
+   "official_date": "ultimazione comunicata il 10/06/2024 (scala il 30/06/2024)",
+   "delay": "+7 mesi",
+   "note": "Proroghe di 45+45+40+30 giorni e una sospensione (ripresa il 05/02/2024). Data di consegna scritta nell'atto come «19/16/2023».",
+   "sources": "F10"
+  },
+  {
+   "group": "Copertura e manutenzioni",
+   "item": "Sostituzione del pallone pressostatico",
+   "kind": "phase",
+   "status": "done",
+   "start": "2022-01-26",
+   "end": "2022-05-11",
+   "note": "DD 3667/2021, CRE con DD 1854/2022. Termine ultimo dopo sospensione: 13/06/2022, rispettato.",
+   "sources": "F07,F08"
+  },
+  {
+   "group": "Copertura e manutenzioni",
+   "item": "Ripristino piano e fondo vasca da 50 m",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2024-10-23",
+   "note": "DD 2733/2024 (30.500 €). Con DD 2814/2024 chiusura temporanea e trasferimento di attività a Comeana.",
+   "sources": "F12,F27"
+  },
+  {
+   "group": "Copertura e manutenzioni",
+   "item": "Prova di carico sul solaio del locale tecnico",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2025-11-05",
+   "note": "DD 3099/2025.",
+   "sources": "F29"
+  },
+  {
+   "group": "Copertura e manutenzioni",
+   "item": "Nuovi servizi igienici per le vasche bimbi",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2025-12-18",
+   "note": "DD 3795/2025: esecutivo e affidamento diretto.",
+   "sources": "F29"
+  },
+  {
+   "group": "Vasca da 50 metri (intervento 1)",
+   "item": "Incarichi di progettazione esecutiva vasca 50 m",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2020-05-11",
+   "note": "DD 954/2020.",
+   "sources": "F11,F17"
+  },
+  {
+   "group": "Vasca da 50 metri (intervento 1)",
+   "item": "Aggiornamento e verifica del progetto esecutivo",
+   "kind": "phase",
+   "status": "done",
+   "start": "2023-03",
+   "end": "2023-04",
+   "note": "DD 569, 570, 701 e 836/2023.",
+   "sources": "F11,F25"
+  },
+  {
+   "group": "Vasca da 50 metri (intervento 1)",
+   "item": "Parere tecnico-sportivo CONI",
+   "kind": "milestone",
+   "status": "done",
+   "start": "2024-07-19",
+   "note": "DD 1874/2024 (pagamento dei diritti).",
+   "sources": "F27"
+  },
+  {
+   "group": "Vasca da 50 metri (intervento 1)",
+   "item": "Avvio dei lavori vasca 50 m",
+   "kind": "undated",
+   "status": "todo",
+   "planned_text": "annualità 2024 nel programma triennale 2024-2026; annualità 2025 in quello 2025-2027",
+   "official_date": "nessun atto di gara o di avvio trovato",
+   "delay": "rinviata dal 2024 al 2025 nel programma",
+   "note": "Nel programma triennale l'opera vale 2,8 milioni.",
+   "sources": "F14,F15"
+  },
+  {
+   "group": "Vasca da 50 metri (intervento 1)",
+   "item": "Libera balneazione",
+   "kind": "running",
+   "status": "running",
+   "start": "2026-07-13",
+   "official_date": "inagibile (avviso del 13/07/2026)",
+   "note": "Vasca da 50 m riservata alle società; dal 28/08/2026 piscina chiusa «fino a nuova comunicazione».",
+   "sources": "F30"
+  },
+  {
+   "group": "Opera collegata: complesso riabilitativo",
+   "item": "Progetto definitivo complesso riabilitativo",
+   "kind": "milestone",
+   "start": "2015-12-29",
+   "note": "DGC 421/2015, CUP C37B15003110006.",
+   "sources": "F01"
+  },
+  {
+   "group": "Opera collegata: complesso riabilitativo",
+   "item": "Lavori complesso riabilitativo",
+   "kind": "running",
+   "start": "2020-10",
+   "note": "«Lavori in corso» nel report di fine 2021; variante in corso d'opera DD 2303/2020; SAL straordinari 2023 e 2024.",
+   "sources": "F13,F18,F31"
+  }
+ ],
+ "scope": {
+  "description": [
+   {
+    "text": "Il progetto definitivo del 2018 riqualifica l'impianto di via Roma con tre interventi: vasca olimpionica da 50 m, vasca bimbi, manutenzione straordinaria della palazzina spogliatoi. Importo complessivo 1.850.000 €. La stima a finire riportata nel budget riguarda solo la vasca da 50 m, l'unico intervento ancora da fare.",
+    "sources": "F05,F11"
+   },
+   {
+    "text": "Nel 2020 gli spogliatoi escono dal progetto e diventano un'opera separata da 300.000 € finanziata con mutuo; la copertura della vasca da 50 m (pallone) è sostituita con un appalto a parte.",
+    "sources": "F02,F18,F07"
+   }
+  ],
+  "features": [
+   {
+    "item": "Vasca coperta d'inverno",
+    "value": "50 × 20 m, profondità da 2,20 a 5,10 m, 8 corsie",
+    "sources": "F30"
+   },
+   {
+    "item": "Vasca scoperta",
+    "value": "25 × 12,50 m, profondità 1,40 m",
+    "sources": "F30"
+   },
+   {
+    "item": "Vasche bimbi",
+    "value": "2 vasche circolari (Ø 5 e 10 m)",
+    "sources": "F30"
+   },
+   {
+    "item": "CUP riqualificazione",
+    "value": "C36I18000090004",
+    "sources": "F02"
+   },
+   {
+    "item": "CUP spogliatoi / pallone",
+    "value": "C39H20000030004 / C35F21001600004",
+    "sources": "F10,F07"
+   },
+   {
+    "item": "Lavori vasca 50 m dopo il progetto esecutivo",
+    "value": "1.104.205,67 €",
+    "sources": "F11"
+   }
+  ],
+  "changes": [
+   {
+    "date": "2020-03-31",
+    "text": "Stralcio degli spogliatoi per coprire l'aumento della vasca bimbi.",
+    "sources": "F02"
+   },
+   {
+    "date": "2020-07-17",
+    "text": "Approvate opere aggiuntive sulla vasca bimbi rispetto al definitivo.",
+    "sources": "F02"
+   },
+   {
+    "date": "2022-08-01",
+    "text": "Perizia suppletiva sulla vasca bimbi (DD 1862/2022), +45 giorni.",
+    "sources": "F05,F24"
+   },
+   {
+    "date": "2022-09-06",
+    "text": "Nuovo progetto definitivo degli spogliatoi (DGC 306/2022) al posto di quello del 2020.",
+    "sources": "F23"
+   }
+  ]
+ },
+ "budget": {
+  "currency": "EUR",
+  "eac": [
+   {
+    "date": "2021-12",
+    "amount": 1402287.16,
+    "what": "Solo vasca da 50 m, progetto definitivo (report fine 2021)",
+    "sources": "F13"
+   },
+   {
+    "date": "2024-03",
+    "amount": 2800000,
+    "what": "Solo vasca da 50 m, programma triennale 2024-2026",
+    "sources": "F14"
+   },
+   {
+    "date": "2025-10-08",
+    "amount": 2800000,
+    "what": "Solo vasca da 50 m, programma triennale 2025-2027",
+    "sources": "F15"
+   }
+  ],
+  "actual": [
+   {
+    "date": "2022-07-29",
+    "amount": 78767.83,
+    "what": "Cumulato (somma nostra) – ultimo: Pallone pressostatico: stato finale lavori (netto IVA)",
+    "sources": "F08"
+   },
+   {
+    "date": "2024-09-13",
+    "amount": 411859.18,
+    "what": "Cumulato (somma nostra) – ultimo: Vasca bimbi: somma netta spesa dalla contabilità finale (netto IVA)",
+    "sources": "F05"
+   },
+   {
+    "date": "2024-10-11",
+    "amount": 444299.9,
+    "what": "Cumulato (somma nostra) – ultimo: Vasca bimbi: 3° SAL straordinario per caro materiali (netto IVA)",
+    "sources": "F06"
+   },
+   {
+    "date": "2024-10-21",
+    "amount": 651404.04,
+    "what": "Cumulato (somma nostra) – ultimo: Palazzina spogliatoi: somma netta spesa (netto IVA)",
+    "sources": "F10"
+   }
+  ],
+  "actual_note": "",
+  "funding": [
+   {
+    "source": "Indebitamento (cap. 9351/1, imp. 2021/1191)",
+    "date": "2021-09-29",
+    "amount": 1250000,
+    "sources": "F02"
+   },
+   {
+    "source": "Indebitamento (cap. 9351/1, imp. 2021/1209)",
+    "date": "2021-09-29",
+    "amount": 445387.79,
+    "sources": "F02"
+   },
+   {
+    "source": "Fondo alienazioni (cap. 9351/14)",
+    "date": "2021-09-29",
+    "amount": 17134.24,
+    "sources": "F02"
+   },
+   {
+    "source": "Mutuo Cassa Depositi e Prestiti – palazzina spogliatoi",
+    "date": "2020-11-27",
+    "amount": 300000,
+    "sources": "F18"
+   },
+   {
+    "source": "Quadro economico sostituzione pallone",
+    "date": "2021-12-22",
+    "amount": 110000,
+    "sources": "F07"
+   }
+  ],
+  "eac_scope": "vasca da 50 m",
+  "actual_scope": "lavori già conclusi, somma nostra"
+ },
+ "related_works": [
+  {
+   "work": "Complesso riabilitativo (piscina e palestra) adiacente",
+   "who": "Comune di Prato (600.000 € dalla Regione nel 2014)",
+   "amount": 1420000,
+   "state": "lavori in corso (fine 2021); completamento non trovato negli atti",
+   "note": "Primo importo 1.370.000 € (DGC 411/2014), poi 1.420.000 € (DGC 421/2015).",
+   "sources": "F01,F13"
+  },
+  {
+   "work": "Palazzina spogliatoi (ex intervento 3)",
+   "who": "Comune di Prato",
+   "amount": 300000,
+   "state": "conclusa (CRE ottobre 2024)",
+   "note": "Stralciata dal progetto nel 2020 e finanziata con mutuo.",
+   "sources": "F10,F18"
+  },
+  {
+   "work": "Sostituzione pallone pressostatico vasca 50 m",
+   "who": "Comune di Prato",
+   "amount": 110000,
+   "state": "conclusa (maggio 2022)",
+   "note": "Quadro economico; contratto 89.163,70 € IVA compresa.",
+   "sources": "F07,F08"
+  }
+ ],
+ "risks": [
+  {
+   "type": "risk",
+   "title": "Ritardi delle imprese",
+   "text": "Vasca bimbi finita 10 mesi dopo il termine, con 5 ordini di servizio, penali e avvio della risoluzione; spogliatoi finiti 7 mesi dopo il termine.",
+   "sources": "F05,F10"
+  },
+  {
+   "type": "risk",
+   "title": "Costo della vasca da 50 m raddoppiato",
+   "text": "Da 1,40 milioni (progetto definitivo, fine 2021) a 2,8 milioni (programma triennale 2024).",
+   "sources": "F13,F14"
+  },
+  {
+   "type": "risk",
+   "title": "Rinvio continuo della vasca da 50 m",
+   "text": "Annualità spostata dal 2024 al 2025; quattro cambi di RUP tra il 2021 e il 2024.",
+   "sources": "F14,F15,F11,F20,F22,F25"
+  },
+  {
+   "type": "risk",
+   "title": "Stato strutturale del locale tecnico",
+   "text": "Nel novembre 2025 il Comune affida una prova di carico su solaio e trave della copertura del locale tecnico.",
+   "sources": "F29"
+  },
+  {
+   "type": "risk",
+   "title": "Chiusure e attività spostate fuori Prato",
+   "text": "Nel 2024-2025 il Comune paga il trasporto degli atleti minorenni alla piscina di Comeana durante le chiusure.",
+   "sources": "F27,F28"
+  },
+  {
+   "type": "risk",
+   "title": "Caro materiali",
+   "text": "Tre SAL straordinari per revisione dei prezzi sulla vasca bimbi (2022-2024).",
+   "sources": "F04,F06"
+  },
+  {
+   "type": "opportunity",
+   "title": "Progetto esecutivo già verificato",
+   "text": "Per la vasca da 50 m il progetto esecutivo è stato aggiornato e verificato nel 2023 e ha il parere CONI del 2024.",
+   "sources": "F11,F25,F27"
+  },
+  {
+   "type": "opportunity",
+   "title": "Polo con il complesso riabilitativo",
+   "text": "La piscina riabilitativa adiacente completa l'offerta dell'impianto.",
+   "sources": "F01"
+  }
+ ],
+ "claims": [
+  {
+   "date": "2015-12-29",
+   "who": "Comune (riportato dalla stampa)",
+   "claim": "Complesso riabilitativo: «i lavori inizieranno a primavera» 2016.",
+   "sources": "F40"
+  },
+  {
+   "date": "2023-01-30",
+   "who": "Stampa",
+   "claim": "Vasca da 50 m inagibile per l'estate 2023, senza autorizzazione ASL all'uso pubblico.",
+   "sources": "F47"
+  },
+  {
+   "date": "2025-10",
+   "who": "Comune (riportato dalla stampa)",
+   "claim": "Riapertura «nella migliore delle ipotesi» il 27 ottobre 2025 in configurazione estiva.",
+   "sources": "F41"
+  },
+  {
+   "date": "2026-01",
+   "who": "Comune (riportato dalla stampa)",
+   "claim": "Atleti in vasca a metà febbraio 2026.",
+   "sources": "F42"
+  },
+  {
+   "date": "2026-07-14",
+   "who": "Comune (riportato dalla stampa)",
+   "claim": "Timeline condivisa con gestore ed enti per avviare «quanto prima» la riqualificazione; libera balneazione sospesa.",
+   "sources": "F44"
+  },
+  {
+   "date": "2026-03-05",
+   "who": "Comune (riportato dalla stampa)",
+   "claim": "Riapertura il 9 marzo 2026 solo per uso agonistico, senza pubblico, dopo il via libera ASL.",
+   "sources": "F43"
+  },
+  {
+   "date": "2026-11-03",
+   "who": "Giunta / assessore Romei (stampa)",
+   "claim": "Vasca 1,2 milioni nel primo anno, parco 1,5 milioni dall'estate 2027; apertura parziale alla balneazione a giugno 2027.",
+   "sources": "F45,F46"
+  }
+ ],
+ "events": [
+  {
+   "date": "2015-12-29",
+   "group": "Riabilitativa",
+   "text": "Approvato il definitivo del complesso riabilitativo (1,42 mln).",
+   "amount": 1420000,
+   "sources": "F01"
+  },
+  {
+   "date": "2018-10-30",
+   "group": "Progetto",
+   "text": "Approvato il definitivo della riqualificazione (1,85 mln).",
+   "amount": 1850000,
+   "sources": "F05"
+  },
+  {
+   "date": "2020-03-31",
+   "group": "Progetto",
+   "text": "Stralcio degli spogliatoi (DGC 96/2020).",
+   "sources": "F16"
+  },
+  {
+   "date": "2020-10-05",
+   "group": "Vasca 50 m",
+   "text": "Diritti per il parere tecnico-sportivo CONI (DD 2252/2020).",
+   "sources": "F18"
+  },
+  {
+   "date": "2021-03-05",
+   "group": "Vasca 50 m",
+   "text": "Primo cambio di RUP (DD 480/2021).",
+   "sources": "F20"
+  },
+  {
+   "date": "2021-10-25",
+   "group": "Copertura",
+   "text": "Affidata e poi revocata (DD 2995/2021) la riparazione del pallone; si decide la sostituzione.",
+   "sources": "F21"
+  },
+  {
+   "date": "2021-11-11",
+   "group": "Vasca bimbi",
+   "text": "Aggiudicazione a Gruppo Ciccotti srl.",
+   "sources": "F03"
+  },
+  {
+   "date": "2022-02-08",
+   "group": "Vasca bimbi",
+   "text": "Consegna dei lavori.",
+   "sources": "F05"
+  },
+  {
+   "date": "2022-05-11",
+   "group": "Copertura",
+   "text": "Finito il nuovo pallone pressostatico.",
+   "sources": "F08"
+  },
+  {
+   "date": "2023-01-27",
+   "group": "Vasca bimbi",
+   "text": "Avvio del procedimento di risoluzione del contratto.",
+   "sources": "F05"
+  },
+  {
+   "date": "2023-04-20",
+   "group": "Vasca bimbi",
+   "text": "Constatata l'ultimazione dei lavori.",
+   "sources": "F05"
+  },
+  {
+   "date": "2023-05-23",
+   "group": "Copertura",
+   "text": "Aggiudicata la riparazione del pallone (DD 1249/2023).",
+   "sources": "F25"
+  },
+  {
+   "date": "2024-06-10",
+   "group": "Spogliatoi",
+   "text": "Ultimazione dei lavori comunicata.",
+   "sources": "F10"
+  },
+  {
+   "date": "2024-10-23",
+   "group": "Vasca 50 m",
+   "text": "Lavori su piano e fondo vasca (30.500 €).",
+   "amount": 30500,
+   "sources": "F12"
+  },
+  {
+   "date": "2024-12-13",
+   "group": "Vasca 50 m",
+   "text": "Nuovo cambio di RUP (DD 3567/2024).",
+   "sources": "F11"
+  },
+  {
+   "date": "2023-12-04",
+   "group": "Vasca 50 m",
+   "text": "Relazione geologica per l'aggiornamento del progetto esecutivo (DD 3446/2023).",
+   "sources": "F26"
+  },
+  {
+   "date": "2025-02-27",
+   "group": "Vasca 50 m",
+   "text": "Nuovo tunnel mobile tra vasca e spogliatoi (DD 492/2025).",
+   "sources": "F28"
+  },
+  {
+   "date": "2025-10",
+   "group": "Chiusure",
+   "text": "Chiusura dopo il distacco di intonaco e cemento nella sala macchine.",
+   "sources": "F41"
+  },
+  {
+   "date": "2025-11-05",
+   "group": "Chiusure",
+   "text": "Affidata la prova di carico sul locale tecnico.",
+   "sources": "F29"
+  },
+  {
+   "date": "2026-03-09",
+   "group": "Chiusure",
+   "text": "Riapertura per uso agonistico senza pubblico.",
+   "sources": "F43"
+  },
+  {
+   "date": "2026-08-28",
+   "group": "Chiusure",
+   "text": "Ultimo giorno di nuoto libero, poi chiusura fino a nuova comunicazione.",
+   "sources": "F30"
+  },
+  {
+   "date": "2026-11-03",
+   "group": "Progetto",
+   "text": "La Giunta approva il documento di indirizzo alla progettazione di vasca e parco.",
+   "sources": "F45,F46"
+  }
+ ],
+ "documents": [
+  {
+   "document": "Quadro economico complessivo 1,85 mln (QE del 2020 riapprovato)",
+   "phase": "definitivo / esecutivo",
+   "sources": "F02"
+  },
+  {
+   "document": "Certificato di regolare esecuzione vasca bimbi (riassunto nell'atto)",
+   "phase": "collaudo",
+   "sources": "F05"
+  },
+  {
+   "document": "Programma triennale lavori pubblici 2024-2026 (scheda vasca 50 m)",
+   "phase": "programmazione",
+   "sources": "F14"
+  },
+  {
+   "document": "Programma triennale lavori pubblici 2025-2027 (scheda vasca 50 m)",
+   "phase": "programmazione",
+   "sources": "F15"
+  },
+  {
+   "document": "Progetto definitivo complesso riabilitativo",
+   "phase": "definitivo",
+   "sources": "F01"
+  }
+ ],
+ "gaps": [
+  {
+   "section": "Budget",
+   "item": "Spesa complessiva sostenuta (lavori, incarichi, manutenzioni) per la piscina",
+   "note": "Non pubblicata in forma aggregata: sopra solo gli stati finali dei lavori. Chiedibile con accesso civico al Servizio Lavori Pubblici."
+  },
+  {
+   "section": "Budget",
+   "item": "Quadro economico da 2,8 mln della vasca da 50 m e sue fonti di finanziamento",
+   "note": "Il programma triennale riporta solo il totale.",
+   "sources": "F14,F15"
+  },
+  {
+   "section": "Budget",
+   "item": "Importi ufficiali del nuovo progetto vasca + parco (novembre 2026)",
+   "note": "1,2 + 1,5 mln solo da stampa.",
+   "sources": "F45"
+  },
+  {
+   "section": "Cronoprogramma",
+   "item": "Numero e data della delibera del documento di indirizzo alla progettazione (novembre 2026)",
+   "note": "Non trovata sul portale atti; il portale trasparenza non elenca ancora gli atti 2026."
+  },
+  {
+   "section": "Cronoprogramma",
+   "item": "Programma triennale 2026-2028: annualità della vasca da 50 m",
+   "note": "Atto non trovato."
+  },
+  {
+   "section": "Cronoprogramma",
+   "item": "Atto di chiusura dell'ottobre 2025 e verbali ASL",
+   "note": "Note solo dalla stampa; gli esiti ASL non sono pubblicati."
+  },
+  {
+   "section": "Cronoprogramma",
+   "item": "DGC 392/2018 e DGC 96/2020 in PDF",
+   "note": "Citate negli atti successivi ma non scaricabili dal portale."
+  },
+  {
+   "section": "Opere collegate",
+   "item": "Fine lavori e costo finale del complesso riabilitativo",
+   "note": "Nessun certificato di regolare esecuzione trovato."
+  }
+ ],
+ "sources": [
+  {
+   "id": "F01",
+   "title": "Deliberazione di Giunta n. 421 del 29/12/2015 – Complesso riabilitativo adiacente la piscina di via Roma, progetto definitivo",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2015-12-29",
+   "url": "https://archiviositi.comune.prato.it/trasparenza/gare-contratti/gare/archivio/2017/gara-586/pdf/gc_2015_421.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F02",
+   "title": "Determinazione n. 2435 del 29/09/2021 – Vasca bimbi: quadro economico del progetto complessivo e determina a contrarre (richiama DGC 392/2018, DGC 96/2020, DD 1612/2020)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2021-09-29",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2021_0002435_7.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F03",
+   "title": "Determinazione n. 2958 del 11/11/2021 – Vasca bimbi: aggiudicazione",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2021-11-11",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2021_0002958_4.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F04",
+   "title": "Determinazione n. 2268 del 22/09/2022 – Vasca bimbi: SAL straordinario e adeguamento prezzi (DL 73/2021, DL 50/2022)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022-09-22",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2022_0002268_3.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F05",
+   "title": "Determinazione n. 2288 del 13/09/2024 – Vasca bimbi: certificato di regolare esecuzione, ritardi e penali",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-09-13",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2024_0002288_4.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F06",
+   "title": "Determinazione n. 2611 del 11/10/2024 – Vasca bimbi: 3° SAL straordinario sul conto finale",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-10-11",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2024_0002611_4.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F07",
+   "title": "Determinazione n. 3667 del 22/12/2021 – Sostituzione del pallone pressostatico della vasca da 50 m: affidamento lavori",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2021-12-22",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2021_0003667_6.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F08",
+   "title": "Determinazione n. 1854 del 29/07/2022 – Pallone pressostatico: certificato di regolare esecuzione",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022-07-29",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2022_0001854_4.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F09",
+   "title": "Determinazione n. 594 del 15/03/2023 – Palazzina spogliatoi: aggiudicazione",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2023-03-15",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2023_0000594_5.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F10",
+   "title": "Determinazione n. 2703 del 21/10/2024 – Palazzina spogliatoi: certificato di regolare esecuzione",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-10-21",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2024_0002703_4.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F11",
+   "title": "Determinazione n. 3567 del 13/12/2024 – Vasca da 50 m: sostituzione del RUP (con storia della progettazione)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-12-13",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2024_0003567_3.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F12",
+   "title": "Determinazione n. 2733 del 23/10/2024 – Vasca da 50 m: ripristino pavimenti e rivestimenti di piano e fondo vasca",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-10-23",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/DD_2024_0002733_9.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F13",
+   "title": "Report controllo strategico 2° semestre 2021 (deliberazione di Consiglio n. 39/2022) – elenco opere pubbliche",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/CC_2022_0000039_2.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F14",
+   "title": "DUP 2024-2026, Sezione operativa (deliberazione di Consiglio n. 36/2024) – Programma triennale lavori pubblici 2024-2026",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024-03",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/CC_2024_0000036_2.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F15",
+   "title": "Deliberazione del Commissario straordinario n. 20 del 08/10/2025 – Programma triennale lavori pubblici 2025-2027, variazione",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2025-10-08",
+   "url": "https://pubblicazioneatti.comune.prato.it/doc/prato/CO_2025_0000010_2.pdf",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F16",
+   "title": "Portale Trasparenza – Provvedimenti organi politici, I semestre 2020 (DGC 96/2020)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2020",
+   "url": "https://trasparenza.comune.prato.it/page/10357/provvedimenti-organi-politici-i-semestre-2020.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F17",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, I semestre 2020 (DD 954, 1138/2020)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2020",
+   "url": "https://trasparenza.comune.prato.it/page/10366/provvedimenti-dirigenziali-i-semestre-2020.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F18",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2020 (DD 1612, 2252, 2303, 2997/2020)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2020",
+   "url": "https://trasparenza.comune.prato.it/page/10367/provvedimenti-dirigenziali-ii-semestre-2020.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F19",
+   "title": "Portale Trasparenza – Provvedimenti organi politici, II semestre 2020 (DGC 262/2020)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2020",
+   "url": "https://trasparenza.comune.prato.it/page/10356/provvedimenti-organi-politici-ii-semestre-2020.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F20",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, I semestre 2021 (DD 480/2021)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2021",
+   "url": "https://trasparenza.comune.prato.it/page/10365/provvedimenti-dirigenziali-i-semestre-2021.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F21",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2021 (DD 2731, 2995, 3506/2021)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2021",
+   "url": "https://trasparenza.comune.prato.it/page/10364/provvedimenti-dirigenziali-ii-semestre-2021.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F22",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, I semestre 2022 (DD 1279/2022)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022",
+   "url": "https://trasparenza.comune.prato.it/page/10363/provvedimenti-dirigenziali-i-semestre-2022.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F23",
+   "title": "Portale Trasparenza – Provvedimenti organi politici, II semestre 2022 (DGC 306/2022)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022",
+   "url": "https://trasparenza.comune.prato.it/page/10352/provvedimenti-organi-politici-ii-semestre-2022.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F24",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2022 (DD 1862, 3502/2022)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2022",
+   "url": "https://trasparenza.comune.prato.it/page/10362/provvedimenti-dirigenziali-ii-semestre-2022.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F25",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, I semestre 2023 (DD 543, 569, 570, 701, 836, 1249/2023)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2023",
+   "url": "https://trasparenza.comune.prato.it/page/10361/provvedimenti-dirigenziali-i-semestre-2023.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F26",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2023 (DD 2610, 3446/2023)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2023",
+   "url": "https://trasparenza.comune.prato.it/page/10360/provvedimenti-dirigenziali-ii-semestre-2023.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F27",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2024 (DD 1874, 2814/2024)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024",
+   "url": "https://trasparenza.comune.prato.it/page/10358/provvedimenti-dirigenziali-ii-semestre-2024.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F28",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, I semestre 2025 (DD 206, 492/2025)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2025",
+   "url": "https://trasparenza.comune.prato.it/page/50104/provvedimenti-dirigenziali-i-semestre-2025.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F29",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2025 (DD 3099, 3549, 3795/2025)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2025",
+   "url": "https://trasparenza.comune.prato.it/page/50118/provvedimenti-dirigenziali-ii-semestre-2025.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F30",
+   "title": "Piscina Colzi Martini di via Roma – scheda dell'impianto (avvisi del 13/07/2026 e 28/08/2026)",
+   "publisher": "Comune di Prato",
+   "type": "sito ufficiale",
+   "official": true,
+   "date": "2026-08-28",
+   "url": "https://www.comune.prato.it/it/vivere-il-comune/luoghi/luoghi-sport/piscine/piscina-colzi-martini/archivio62_0_899.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F31",
+   "title": "Portale Trasparenza – Provvedimenti dirigenziali, II semestre 2023 e I semestre 2024 (complesso riabilitativo: DD 579/2023, 340/2024)",
+   "publisher": "Comune di Prato",
+   "type": "atto ufficiale",
+   "official": true,
+   "date": "2024",
+   "url": "https://trasparenza.comune.prato.it/page/10359/provvedimenti-dirigenziali-i-semestre-2024.html",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F40",
+   "title": "In via Roma piscina riabilitativa, ambulatorio e infermeria (29/12/2015)",
+   "publisher": "La Nazione",
+   "type": "stampa",
+   "official": false,
+   "date": "2015-12-29",
+   "url": "https://www.lanazione.it/prato/cronaca/in-via-roma-piscina-riabilitativa-ambulatorio-e-infermeria-1.1607800",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F41",
+   "title": "La piscina di via Roma resterà chiusa almeno altri 7 giorni (ottobre 2025)",
+   "publisher": "La Nazione",
+   "type": "stampa",
+   "official": false,
+   "date": "2025-10",
+   "url": "https://www.lanazione.it/prato/cronaca/la-piscina-resta-chiusa-1bcf885c",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F42",
+   "title": "Piscina di via Roma. Atleti in vasca a metà febbraio (gennaio 2026)",
+   "publisher": "La Nazione",
+   "type": "stampa",
+   "official": false,
+   "date": "2026-01",
+   "url": "https://www.lanazione.it/prato/cronaca/piscina-di-via-roma-cc2917d6",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F43",
+   "title": "Piscina Colzi-Martini, lunedì riapre dopo 5 mesi di chiusura (5/3/2026)",
+   "publisher": "TV Prato",
+   "type": "stampa",
+   "official": false,
+   "date": "2026-03-05",
+   "url": "https://www.tvprato.it/piscina-colzi-martini-lunedi-riapre-dopo-5-mesi-di-chiusura/",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F44",
+   "title": "Piscina di via Roma, un cronoprogramma di interventi per la riqualificazione dell'impianto (14/7/2026)",
+   "publisher": "TV Prato",
+   "type": "stampa",
+   "official": false,
+   "date": "2026-07-14",
+   "url": "https://www.tvprato.it/piscina-di-via-roma-un-cronoprogramma-di-interventi-per-la-riqualificazione-dellimpianto/",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F45",
+   "title": "Piscina di via Roma, un piano di riqualificazione per l'impianto natatorio e per il parco (3/11/2026)",
+   "publisher": "TV Prato",
+   "type": "stampa",
+   "official": false,
+   "date": "2026-11-03",
+   "url": "https://www.tvprato.it/piscina-di-via-roma-un-piano-di-riqualificazione-per-limpianto-natatorio-e-per-il-parco/",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F46",
+   "title": "Piscina di via Roma, il parco cambia volto (3/11/2026)",
+   "publisher": "Notizie di Prato",
+   "type": "stampa",
+   "official": false,
+   "date": "2026-11-03",
+   "url": "https://www.notiziediprato.it/attualita/piscina-di-via-roma-il-parco-cambia-volto-nuovo-bar-aree-picnic-e-un-campo-da-beach-volley/",
+   "added": "2026-11-23"
+  },
+  {
+   "id": "F47",
+   "title": "Estate 2023, la piscina olimpionica di via Roma sarà inagibile (30/1/2023)",
+   "publisher": "Notizie di Prato",
+   "type": "stampa",
+   "official": false,
+   "date": "2023-01-30",
+   "url": "https://www.notiziediprato.it/vita-in-citta/estate-2023-la-piscina-olimpionica-di-via-roma-sara-inagibile-parco-acquatico-a-scartamento-ridotto/",
+   "added": "2026-11-23"
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-23",
+   "summary": "Prima raccolta: atti dal 2015 al 23/11/2026 (portale atti, portale trasparenza 2020-2025, programmi triennali, scheda dell'impianto) e stampa locale per dichiarazioni ed eventi."
+  }
+ ]
+}
